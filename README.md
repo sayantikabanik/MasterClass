@@ -1,7 +1,7 @@
 # MasterClass
 Content and templates to get started with Consulting and Business. My brain dump!
 
-# Your toolkit
+## Your toolkit
 
 - `Excel` to track
 - `Canva` to design brank kit + content + Recording
@@ -13,7 +13,7 @@ Content and templates to get started with Consulting and Business. My brain dump
 - Recurring calls/meeting with a friend/group to disconnect
 
 
-# Content chart
-🕰️ Tracker template for getting started & keeping it together 
+## Content chart
+🕰️ Tracker template for getting started & keeping it together \
 🖌️ Microsoft's Inclusive Design Guide
 
