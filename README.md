@@ -1,7 +1,7 @@
 # MasterClass
 Content and templates to get started with Consulting and Business. My brain dump!
 
-# Helpful tools 
+# Your toolkit
 
 - `Excel` to track
 - `Canva` to design brank kit + content + Recording
