@@ -1,9 +1,27 @@
 # MasterClass
 Content and templates to get started with Consulting and Business. My brain dump!
 
+## Phycological Safety & Affirmations 
+
+[Source: Calm](https://www.calm.com/blog/affirmations-for-anxiety)
+
+- I am safe and in control.
+- I have done this before, and I can do it again.
+- This too shall pass.
+- I am strong and resilient.
+- I trust myself to navigate through this.
+- I am capable.
+- I am competent
+- I take things one day at a time.
+- I inhale peace and exhale worry.
+- This feeling is only temporary.
+- I am loved and accepted just as I am.
+
 ## Your toolkit
 
 - `Excel` to track
+- `Substack` to write & monetise
+- `Zoom` & `GMeet` & others to sync
 - `Canva` to design brank kit + content + Recording
 - `AI tools` for structure and templating 
 - `GitHub` to structure, and manage projects
