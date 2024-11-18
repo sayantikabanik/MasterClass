@@ -1,6 +1,10 @@
 # MasterClass
 Content and templates to get started with Consulting and Business. My brain dump!
 
+## Accessing presentation
+
+[MasterClass: Click to View](https://www.canva.com/design/DAGU0qVrSlM/7ss4ONI70E16PBzv0IY54w/edit?utm_content=DAGU0qVrSlM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Phycological Safety & Affirmations 
 
 [Source: Calm](https://www.calm.com/blog/affirmations-for-anxiety)
