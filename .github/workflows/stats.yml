@@ -6,7 +6,7 @@ on:
 jobs:
   j1:
     name: masterclass-reach
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: run-ghrs
         uses: jgehrcke/github-repo-stats@RELEASE
