@@ -1,5 +1,5 @@
 % Statistics for sayantikabanik/Masterclass
-% Generated for [sayantikabanik/Masterclass](https://github.com/sayantikabanik/Masterclass) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-08-15 23:57 UTC.
+% Generated for [sayantikabanik/Masterclass](https://github.com/sayantikabanik/Masterclass) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-08-16 23:57 UTC.
 
 
 ## Views
@@ -78,7 +78,7 @@ Top 15 referrers: 01: `github.com`, 02: `canva.com`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/main/planning_template`, 03: `/tree/main/design_tools`, 04: `/blob/main/planning_template/Tracker_goals_efforts_finance.xlsx`, 05: `/blob/main/design_tools/InclusiveDesignForCognitionGuidebook.pdf`, 06: `/issues`, 07: `/commit/f0a0e702a8ac228d2b48459619a1c3c716b589e2`, 08: `/actions`, 09: `/actions/runs/11911372591`, 10: `/actions/workflows/deploy-stats.yml`, 11: `/blob/main/thinking_design/examples_from_life.md`, 12: `/blob/main/.github/workflows/stats.yml`, 13: `/blob/main/thinking_design/1_0_1.md`, 14: `/actions/runs/11911156111/job/33192053435`, 15: `/tree/main/.github/workflows`
+Top 15 paths: 01: `/`, 02: `/tree/main/planning_template`, 03: `/tree/main/design_tools`, 04: `/blob/main/planning_template/Tracker_goals_efforts_finance.xlsx`, 05: `/blob/main/design_tools/InclusiveDesignForCognitionGuidebook.pdf`, 06: `/issues`, 07: `/commit/f0a0e702a8ac228d2b48459619a1c3c716b589e2`, 08: `/actions`, 09: `/blob/main/Template_%20Tracker%20for%20goals%20and%20more.xlsx`, 10: `/pulls`, 11: `/actions/workflows/deploy-stats.yml`, 12: `/actions/runs/11911156111/job/33192053435`, 13: `/actions/runs/11911156111`, 14: `/actions/runs/12758268044`, 15: `/tree/main/thinking_design`
 
 
 <script type="text/javascript">
