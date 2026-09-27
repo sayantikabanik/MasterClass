@@ -1,5 +1,5 @@
 % Statistics for sayantikabanik/Masterclass
-% Generated for [sayantikabanik/Masterclass](https://github.com/sayantikabanik/Masterclass) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2026-09-26 02:03 UTC.
+% Generated for [sayantikabanik/Masterclass](https://github.com/sayantikabanik/Masterclass) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2026-09-27 01:54 UTC.
 
 
 ## Views
@@ -78,7 +78,7 @@ Top 15 referrers: 01: `github.com`, 02: `canva.com`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `MasterClass`, 02: `MasterClass/tree/main/planning_template`, 03: `MasterClass/blob/main/planning_template/Tracker_goals_efforts_finance.xlsx`, 04: `MasterClass/tree/main/design_tools`, 05: `MasterClass/issues`, 06: `MasterClass/blob/main/design_tools/InclusiveDesignForCognitionGuidebook.pdf`, 07: `MasterClass/commit/f0a0e702a8ac228d2b48459619a1c3c716b589e2`, 08: `MasterClass/actions`, 09: `MasterClass/blob/main/Template_%20Tracker%20for%20goals%20and%20more.xlsx`, 10: `MasterClass/blob/main/.gitignore`, 11: `MasterClass/edit/main/thinking_design/examples_from_life.md`, 12: `MasterClass/actions/runs/11911156111/job/33192053435`, 13: `MasterClass/actions/workflows/stats.yml`, 14: `MasterClass/edit/main/.github/workflows/stats.yml`, 15: `MasterClass/tree/github-repo-stats`
+Top 15 paths: 01: `MasterClass`, 02: `MasterClass/tree/main/planning_template`, 03: `MasterClass/blob/main/planning_template/Tracker_goals_efforts_finance.xlsx`, 04: `MasterClass/tree/main/design_tools`, 05: `MasterClass/issues`, 06: `MasterClass/blob/main/design_tools/InclusiveDesignForCognitionGuidebook.pdf`, 07: `MasterClass/commit/f0a0e702a8ac228d2b48459619a1c3c716b589e2`, 08: `MasterClass/actions`, 09: `MasterClass/tree/main/.github/workflows`, 10: `MasterClass/blob/main/thinking_design/1_0_1.md`, 11: `MasterClass/actions/workflows/deploy-stats.yml`, 12: `MasterClass/pulls`, 13: `MasterClass/actions/runs/12758268044/job/35560101697`, 14: `MasterClass/edit/main/.github/workflows/stats.yml`, 15: `MasterClass/blob/main/thinking_design/examples_from_life.md`
 
 
 <script type="text/javascript">
